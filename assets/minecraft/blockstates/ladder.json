@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=east": [
+		{"model": "block/ladder/ladder_00", "weight": 78, "y": 90},
+		{"model": "block/ladder/ladder_01", "weight": 20, "y": 90},
+		{"model": "block/ladder/ladder_02", "weight": 20, "y": 90},
+		{"model": "block/ladder/ladder_03", "weight": 2, "y": 90}
+	],
+    "facing=north": [
+		{"model": "block/ladder/ladder_00", "weight": 78},
+		{"model": "block/ladder/ladder_01", "weight": 20},
+		{"model": "block/ladder/ladder_02", "weight": 20},
+		{"model": "block/ladder/ladder_03", "weight": 2}
+	],
+    "facing=south":[
+		{"model": "block/ladder/ladder_00", "weight": 78, "y": 180},
+		{"model": "block/ladder/ladder_01", "weight": 20, "y": 180},
+		{"model": "block/ladder/ladder_02", "weight": 20, "y": 180},
+		{"model": "block/ladder/ladder_03", "weight": 2, "y": 180}
+	],
+    "facing=west": [
+		{"model": "block/ladder/ladder_00", "weight": 78, "y": 270},
+		{"model": "block/ladder/ladder_01", "weight": 20, "y": 270},
+		{"model": "block/ladder/ladder_02", "weight": 20, "y": 270},
+		{"model": "block/ladder/ladder_03", "weight": 2, "y": 270}
+	]
+  }
+}
