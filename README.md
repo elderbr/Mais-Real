@@ -2,6 +2,8 @@
 # Mais Real
 Textura personalizada para o minecraft para pc fracos, essa textura trás uma realidade maior para o jogo.
 
+## Novidades
+- Nova textura do netherrack
 
 ## Efeitos de Iluminação
 - Céu personalizado 
@@ -44,3 +46,35 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 ## Material convertido para 3D
 - Pó de Redstone
 - Escada
+
+## Armaduras Personalizadas
+- AzBlue
+- Caipira
+- Fogo
+- Gelo
+
+## Espada
+- AzBlue
+- Fire
+- Gelo
+
+## Machado
+- AzBlue
+- Gelo
+
+## Picareta
+- AzBlue
+- Gelo
+
+## Pá
+- AzBlue
+- Gelo
+
+## Arco
+- AzBlue
+
+## Elytra
+- AzBlue
+- Ancetral
+- Celestial
+- Gelo
