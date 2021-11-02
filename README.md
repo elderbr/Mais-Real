@@ -75,6 +75,5 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 
 ## Elytra
 - AzBlue
-- Ancetral
 - Celestial
 - Gelo
