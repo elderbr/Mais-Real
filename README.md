@@ -60,10 +60,12 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 
 ## Machado
 - AzBlue
+- AzBlue Touch
 - Gelo
 
 ## Picareta
 - AzBlue
+- AzBlue Touch
 - Gelo
 
 ## Pá
