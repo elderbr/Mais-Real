@@ -42,6 +42,8 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 - Alçapão de Pinheiros
 - Trigo
 
+## Folha de Bétula
+- Muda a cor da Folha de bétula conforme o bioma.
 
 ## Material convertido para 3D
 - Pó de Redstone
