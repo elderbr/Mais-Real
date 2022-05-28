@@ -1,0 +1,10 @@
+{
+  "parent": "block/leaves/leaves",
+  "textures": {
+    "all": "minecraft:block/oak_leaves",
+	"bushy00": "block/bushy/bushy00",
+	"bushy01": "block/bushy/bushy01",
+	"bushy02": "block/bushy/bushy02",
+	"bushy03": "block/bushy/bushy03"
+  }
+}
