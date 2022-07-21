@@ -58,7 +58,8 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 
 ## Espada
 - AzBlue
-
+![AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_sword.gif)
+---
 - Fire
 - Gelo
 
