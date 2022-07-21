@@ -57,9 +57,9 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 - Gelo
 
 ## Espada
-- AzBlue
+- AzBlue Diamante
 
-![AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_sword.gif)
+![Espada de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_sword.gif)
 ---
 - Fire
 - Gelo
@@ -76,6 +76,9 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 
 ## Pá
 - AzBlue
+
+![Pá de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_shovel.gif)
+---
 - Gelo
 
 ## Arco
