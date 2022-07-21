@@ -3,7 +3,7 @@
 Textura personalizada para o minecraft para pc fracos, essa textura trás uma realidade maior para o jogo.
 
 ## Novidades
-- Nova textura do netherrack
+- Menu está de cara nova
 
 ## Efeitos de Iluminação
 - Céu personalizado 
