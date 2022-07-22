@@ -50,7 +50,7 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 - Pó de Redstone
 - Escada
 
-![Escadas](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/ladder.png)
+![Escadas](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/block/ladder.png)
 ---
 
 ## Armaduras Personalizadas
