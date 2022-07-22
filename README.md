@@ -48,6 +48,22 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 
 ## Material convertido para 3D
 - Pó de Redstone
+
+![Redstone wire](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/block/redstone_wire.png)
+
+Conexões
+
+![Redstone wire](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/block/redstone_wire_01.png)
+---
+
+- Alavanca
+![Level](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/block/level.png)
+---
+
+- Repetidor
+![repetidor](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/block/repetidor_01.png)
+---
+
 - Escada
 
 ![Escadas](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/block/ladder.png)
