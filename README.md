@@ -80,7 +80,7 @@ Conexões
 - Fogo
 - Gelo
 
-![Armadura de diamante Gelo](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/armor/Gelo_diamond_armor.gif)
+![Armadura de diamante Gelo](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/armor/Gelo_diamond.gif)
 ---
 
 ## Espada
