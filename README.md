@@ -52,6 +52,9 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 
 ## Armaduras Personalizadas
 - AzBlue
+
+![Armadura de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_diamond_armor.gif)
+---
 - Caipira
 - Fogo
 - Gelo
