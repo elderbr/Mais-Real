@@ -7,7 +7,11 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 ![menu](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/menu.png)
 
 ## Efeitos de Iluminação
-- Céu personalizado 
+- Céu personalizado
+![Ceu de dia](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/ceu_dia.png)
+
+![Ceu de Noite](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/ceu_noite.png)
+
 - Iluminação
 
 
