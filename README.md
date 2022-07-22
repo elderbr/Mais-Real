@@ -78,6 +78,9 @@ Conexões
 ---
 - Caipira
 - Fogo
+
+![Armadura de diamante Fogo](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/armor/Fogo_diamond.gif)
+---
 - Gelo
 
 ![Armadura de diamante Gelo](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/armor/Gelo_diamond.gif)
