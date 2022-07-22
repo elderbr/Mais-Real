@@ -69,10 +69,10 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 
 ## Machado
 - AzBlue
+- AzBlue Touch
 
 ![Machado de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_axe.gif)
 ---
-- AzBlue Touch
 - Gelo
 
 ## Picareta
@@ -100,6 +100,9 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 
 ## Arco
 - AzBlue
+
+![Arco AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_bow.gif)
+---
 
 ## Elytra
 - AzBlue
