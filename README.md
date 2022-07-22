@@ -51,6 +51,8 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 - Escada
 
 ## Armaduras Personalizadas
+### Para adicionar a textura personalizada renome os itens na bigorna
+
 - AzBlue
 
 ![Armadura de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_diamond_armor.gif)
@@ -60,7 +62,7 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 - Gelo
 
 ## Espada
-- AzBlue Diamante
+- AzBlue
 
 ![Espada de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_sword.gif)
 ---
@@ -76,16 +78,15 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 - Gelo
 
 ## Picareta
-- AzBlue Diamante
+- AzBlue
 
 ![Picareta de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_pickaxe.gif)
-
 ---
 - AzBlue Touch
 - Gelo
 
 ## Pá
-- AzBlue Diamante
+- AzBlue
 
 ![Pá de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_shovel.gif)
 ---
