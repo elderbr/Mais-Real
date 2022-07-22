@@ -50,12 +50,15 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 - Pó de Redstone
 - Escada
 
+![Escadas](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/ladder.png)
+---
+
 ## Armaduras Personalizadas
 ### Para adicionar a textura personalizada renome os itens na bigorna
 
 - AzBlue
 
-![Armadura de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_diamond_armor.gif)
+![Armadura de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/armor/AzBlue_diamond_armor.gif)
 ---
 - Caipira
 - Fogo
@@ -64,7 +67,7 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 ## Espada
 - AzBlue
 
-![Espada de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_sword.gif)
+![Espada de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/sword/AzBlue_sword.gif)
 ---
 - Fire
 - Gelo
@@ -73,14 +76,14 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 - AzBlue
 - AzBlue Touch
 
-![Machado de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_axe.gif)
+![Machado de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/axe/AzBlue_axe.gif)
 ---
 - Gelo
 
 ## Picareta
 - AzBlue
 
-![Picareta de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_pickaxe.gif)
+![Picareta de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/pickaxe/AzBlue_pickaxe.gif)
 ---
 - AzBlue Touch
 - Gelo
@@ -88,21 +91,21 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 ## Pá
 - AzBlue
 
-![Pá de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_shovel.gif)
+![Pá de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/shovel/AzBlue_shovel.gif)
 ---
 - Gelo
 
 ## Enxada
 - AzBlue
 
-![Enxada de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_hoe.gif)
+![Enxada de diamante AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/hoe/AzBlue_hoe.gif)
 ---
 
 
 ## Arco
 - AzBlue
 
-![Arco AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/AzBlue_bow.gif)
+![Arco AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/bow/AzBlue_bow.gif)
 ---
 
 ## Elytra
