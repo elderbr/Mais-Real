@@ -137,12 +137,14 @@ Conexões
 ## Elytra
 - AzBlue
 
-![AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/azblue.png)
+![AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/elytra_azblue.png)
 ---
 
 - Celestial
 
-![Celestial](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/celestial.png)
+![Celestial](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/elytra_celestial.png)
 ---
 
 - Gelo
+
+![Gelo](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/elytra_gelo.png)
