@@ -136,6 +136,8 @@ Conexões
 
 ## Elytra
 - AzBlue
+![AzBlue](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/azblue.png)
+
 - Celestial
 
 ![Celestial](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/celestial.png)
