@@ -137,5 +137,5 @@ Conexões
 ## Elytra
 - AzBlue
 - Celestial
-![Celestial](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/bow/Celestial.png)
+![Celestial](https://raw.githubusercontent.com/elderbr/Mais-Real/main/img/item/bow/celestial.png)
 - Gelo
