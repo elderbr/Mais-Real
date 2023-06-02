@@ -3,10 +3,10 @@
     "textures": {
         "particle": "block/crafting_table_front",
         "down": "block/oak_planks",
-        "up": "block/crafting_table_top",
-        "north": "block/crafting_table_front",
-        "east": "block/crafting_table_side/2",
-        "south": "block/crafting_table_side/2",
-        "west": "block/crafting_table_front"
+        "up": "block/crafting_table/top",
+        "north": "block/crafting_table/0",
+        "east": "block/crafting_table/1",
+        "south": "block/crafting_table/2",
+        "west": "block/crafting_table/3"
     }
 }
