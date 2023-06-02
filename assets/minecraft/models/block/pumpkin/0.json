@@ -1,9 +1,9 @@
 {
     "parent": "block/cube",
     "textures": {
-		"particle": "ctm/pumpkin/0",
+		"particle": "block/pumpkin/0",
 		"up": "block/pumpkin_top",
-		"down": "ctm/pumpkin/0",
+		"down": "block/pumpkin/0",
 		"north": "block/pumpkin_face",
 		"south": "block/pumpkin_side",
 		"west": "block/pumpkin_side",

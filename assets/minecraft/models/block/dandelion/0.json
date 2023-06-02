@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "ctm/dandelion/0"
+        "cross": "block/dandelion/0"
     }
 }

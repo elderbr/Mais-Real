@@ -3,7 +3,7 @@
     "textures": {
         "top": "block/jungle_trapdoor",
 		"bottom": "block/jungle_trapdoor",
-		"front": "ctm/trapdoors/jungle/front",
-		"side": "ctm/trapdoors/jungle/side"
+		"front": "block/trapdoors/jungle/front",
+		"side": "block/trapdoors/jungle/side"
     }
 }

@@ -3,7 +3,7 @@
     "textures": {
         "top": "block/spruce_trapdoor",
 		"bottom": "block/spruce_trapdoor",
-		"front": "ctm/trapdoors/spruce/front",
-		"side": "ctm/trapdoors/spruce/side"
+		"front": "block/trapdoors/spruce/front",
+		"side": "block/trapdoors/spruce/side"
     }
 }

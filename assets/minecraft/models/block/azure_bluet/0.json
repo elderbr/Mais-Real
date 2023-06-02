@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "ctm/azure_bluet/0"
+        "cross": "block/azure_bluet/0"
     }
 }
