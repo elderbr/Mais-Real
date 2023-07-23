@@ -4,5 +4,7 @@
   "language.code": "pt_br",
   "container.inventory": "§fInventário",
   "container.crafting": "§fFabricação",
+  "container.chest": "§fBaú",
+  "container.chestDouble": "§fBaú Grande",
   "block.minecraft.crafting_table": "§fFabricação"
 }
