@@ -3,5 +3,6 @@
   "language.region": "Português - Brasil",
   "language.code": "pt_br",
   "container.inventory": "§fInventário",
-  "container.crafting": "§fMesa de Trabalho"
+  "container.crafting": "§fFabricação",
+  "block.minecraft.crafting_table": "§fFabricação"
 }
