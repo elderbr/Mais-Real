@@ -25,7 +25,6 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 - Cogumelo
 - Pedregulho
 - Mesa de Trabalho
-- Allium
 - Terra com grama
 - Alçapão de Ferro
 - Alçapão de Jungle
@@ -39,8 +38,6 @@ Textura personalizada para o minecraft para pc fracos, essa textura trás uma re
 - Potted Dandelion
 - Potted Oxeye Daisy
 - Potted Poppy
-- Potted Red Mushroom
-- Abóbora
 - Cogumelo Vermelho
 - Pó de Redstone
 - Folha de Pinheiros
