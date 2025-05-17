@@ -1,0 +1,11 @@
+{
+	"credit": "ElderBR",
+	"parent": "block/piston/template_extended",
+	"textures": {
+		"particle": "block/piston/piston_side",
+		"inner": "block/piston/piston_inner",
+		"side": "block/piston/piston_side",
+		"bottom": "block/piston/piston_bottom",
+		"inside": "block/piston/piston_inner"
+	}
+}
